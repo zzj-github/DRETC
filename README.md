@@ -22,7 +22,7 @@
 >> python preprocess.py
 ```
 
-## 4. Training
+## 4. Run
 
 ```bash
 >> python main.py
